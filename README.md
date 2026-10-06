@@ -64,7 +64,7 @@ The cloud compute optimization market spans **free native cloud tools** (AWS Com
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Kubernetes Core](https://github.com/kubernetes/kubernetes)** [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers) 📈  
   **Production-Grade Container Scheduling and Management**, Apache-2.0 licensed. **112k+ stars**. Contains the core Horizontal Pod Autoscaler (HPA) controller and scheduling bin-packing primitives.
@@ -113,7 +113,7 @@ Contributions are welcome! Follow these steps to submit new compute optimization
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
